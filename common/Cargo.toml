@@ -5,7 +5,7 @@ authors = ["MashPlant <740678788@qq.com>"]
 edition = "2018"
 
 [dependencies]
-tools = { git = "https://github.com/MashPlant/tools" }
+tools = { git = "https://github.com/Tokubara/tools" }
 serde = { version = "*", features = ["derive"] }
 indexmap = { version = "*", features = ["serde-1"] }
 smallvec = { version = "*", features = ["union"] }
